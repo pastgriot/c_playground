@@ -1,0 +1,5 @@
+../Middlewares/FREERTOS/list.c:50:6:vListInitialise	16	static
+../Middlewares/FREERTOS/list.c:75:6:vListInitialiseItem	16	static
+../Middlewares/FREERTOS/list.c:87:6:vListInsertEnd	24	static
+../Middlewares/FREERTOS/list.c:117:6:vListInsert	24	static
+../Middlewares/FREERTOS/list.c:188:13:uxListRemove	24	static

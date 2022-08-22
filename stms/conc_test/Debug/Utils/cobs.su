@@ -1,0 +1,2 @@
+../Utils/cobs.c:20:8:COBS_enCode	48	static
+../Utils/cobs.c:51:8:COBS_deCode	40	static

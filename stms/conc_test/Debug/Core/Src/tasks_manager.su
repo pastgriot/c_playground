@@ -1,0 +1,5 @@
+../Core/Src/tasks_manager.c:112:6:Start_UARTrx_tasks	24	static
+../Core/Src/tasks_manager.c:154:13:timerCB	32	static
+../Core/Src/tasks_manager.c:167:13:vScanChannelsTask	16	static
+../Core/Src/tasks_manager.c:178:13:vAccDastaJoinerTask	256	static,ignoring_inline_asm
+../Core/Src/tasks_manager.c:255:6:clearUSBtxBuffFromUARTtask	4	static

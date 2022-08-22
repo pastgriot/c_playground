@@ -1,0 +1,5 @@
+../Core/Src/usb_tasks.c:69:6:Start_USB_cmd_tasks	24	static
+../Core/Src/usb_tasks.c:96:13:vCmdDataProcessTask	24	static
+../Core/Src/usb_tasks.c:129:13:txBroadcast_stopSensorRd	16	static
+../Core/Src/usb_tasks.c:147:13:txBroadcast_getSensorID	16	static
+../Core/Src/usb_tasks.c:166:13:txBroadcast_startA3rs	24	static
