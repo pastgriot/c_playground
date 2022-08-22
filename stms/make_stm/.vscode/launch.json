@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "JLink",
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/make_stm.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device": "STM32L011K4",
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "none",
+            "servertype": "jlink",
+            "svdFile": "STM32L0x1.svd",
+            //"rtos": null
+        }
+    ],
+    "version": "2.0.0"
+}

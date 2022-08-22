@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "STM32L0",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUH",
+                "UNICODE",
+                "_UNICODE",
+                "USE_HAL_DRIVE",
+                "STM32L011xx"
+            ],
+            "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "compilerArgs": [
+                "-mcpu=cortex-m0plus",
+                "-mthumb"
+            ]
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,7 @@
+{
+    "cortex-debug.gdbPath": "/usr/share/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gdb",
+    "cortex-debug.JLinkGDBServerPath": "/opt/st/stm32cubeide_1.9.0/plugins/com.st.stm32cube.ide.mcu.externaltools.jlink.linux64_2.0.200.202202231230/tools/bin/JLinkGDBServer",   
+    "files.associations": {
+        "main.h": "c"
+    }
+}
